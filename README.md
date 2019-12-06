@@ -1,6 +1,5 @@
-# COMP3123_labs
-## Nadezhda Mokhireva - 101149416
 ## Lab submissions for COMP3123 course
+### Nadezhda Mokhireva - 101149416
 
 Name |Repository
  --- |--- 
